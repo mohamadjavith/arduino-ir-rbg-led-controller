@@ -1,4 +1,4 @@
-.#include <IRremote.h>
+#include <IRremote.h>
 int recvPin = 8; // IR Receiver - Arduino Pin Number 8
 int redPin = 10; // RED Output Pin
 int greenPin = 9; // GREEN Output Pin
